@@ -163,8 +163,14 @@
   width: 20%;
   height: 300px;
   margin: 10px;
-  background-color: white;
+  
 }
+
+.mujerbn{
+  width: 100%;
+  height: 100%;
+}
+
 
 .box-2{
   width: 20%;
@@ -173,11 +179,18 @@
   background-color: white;
 }
 
+.tarjetitas{
+  width: 100%;
+  height: 100%;
+
+}
+
 .box-3{
-  width: 30%;
+  width: 20%;
   height: 400px;
   margin: 10px;
   background-color: white;
+  font-size: 25px;
 }
 
 .box-4{
@@ -189,16 +202,26 @@
 
 .box-5{
   width: 20%;
-  height: 100px;
+  height: 130px;
+  margin: 10px;
+  background-color: 
+  rgb(241, 7, 7);
+  font-family: sans-serif;
+  
+}
+
+
+
+.box-6{
+  width: 20%;
+  height: 120px;
   margin: 10px;
   background-color: white;
 }
 
-.box-6{
-  width: 20%;
-  height: 100px;
-  margin: 10px;
-  background-color: white;
+.clock{
+  width: 100%;
+  height: 100%;
 }
 
 /*
